@@ -36,7 +36,7 @@ const Footer = () => {
             <p className="text-base w-full xl:w-[80%]">
             Orebi is an online store offering a variety of products, including accessories, clothing, electronics, and home appliances. It provides trendy fashion, the latest gadgets, and essential home items, with frequent new arrivals. Orebi focuses on quality, style, and a seamless shopping experience for its customers.
             </p>
-            <ul className="flex items-center gap-2">
+            {/* <ul className="flex items-center gap-2">
               <a
                 href="https://www.youtube.com/@reactjsBD"
                 target="_blank"
@@ -73,7 +73,7 @@ const Footer = () => {
                   <FaLinkedin />
                 </li>
               </a>
-            </ul>
+            </ul> */}
           </div>
         </div>
         <div>
